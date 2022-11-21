@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Navbar1() {
   return (
-    <div className='nav justify-content-end bg-dark '>
+    <div className='nav justify-content-end bg-dark d-flex flex-row-reverse '>
       <nav className="navbar navbar-expand-lg  navbar-dark ">
   <div className="container-fluid">
     {/* <a className="navbar-brand" href="/"> */}
@@ -13,17 +13,17 @@ export default function Navbar1() {
     </button>
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-        <li className="nav-item">
+        <li className="nav-item  p-2">
           <a className="nav-link active" aria-current="page" href="/">Home</a>
         </li>
-        <li className="nav-item">
-          <a className="nav-link" href="/">Link1</a>
+        <li className="nav-item p-2">
+          <a className="nav-link" href="/pw">Partner with RIDEIT</a>
         </li>
-        <li className="nav-item">
-          <a className="nav-link" href="/">Link2</a>
+        <li className="nav-item p-2">
+          <a className="nav-link " href="/signup">Sign up</a>
         </li>
-        <li className="nav-item">
-          <a className="nav-link" href="/">Link3</a>
+        <li className="nav-item p-2">
+          <a className="nav-link" href="/future">Future</a>
         </li>
         {/* <li className="nav-item dropdown"> */}
           {/* <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false"> */}
