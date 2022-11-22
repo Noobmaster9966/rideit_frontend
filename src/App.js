@@ -32,14 +32,14 @@ function App() {
      {/* <div className="maps"></div>   */}
      
      <Routes>
-      <Route  exact path= '/pw' element= { <div className="partwith"> <Partwith/> </div>}  > </Route>
-      <Route exact path='/' element={<div className="formtext maps"><FormText/> <Fleets/> </div>  }></Route>
+      <Route  exact path= '/rideit_frontend/pw' element= { <div className="partwith"> <Partwith/> </div>}  > </Route>
+      <Route exact path='/rideit_frontend' element={<div className="formtext maps"><FormText/> <Fleets/> </div>  }></Route>
   
-     <Route exact path='/signup' element= {<LoginPage/>} ></Route>
-     <Route exact path='/aboutus' element={<About/>} >  </Route>
+     <Route exact path='/rideit_frontend/signup' element= {<LoginPage/>} ></Route>
+     <Route exact path='/rideit_frontend/aboutus' element={<About/>} >  </Route>
      {/* <Route exact path='/maps' element= {<Mmaps/>}> </Route> */}
 
-     <Route exact path='/future' element={<Future/>} > </Route>
+     <Route exact path='/rideit_frontend/future' element={<Future/>} > </Route>
 
 
       </Routes>
