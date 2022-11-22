@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rideit_frontend/static/css/main.8e12df22.css",
+    "main.js": "/rideit_frontend/static/js/main.5c234adf.js",
+    "static/js/787.037d72d9.chunk.js": "/rideit_frontend/static/js/787.037d72d9.chunk.js",
+    "static/media/baloo-bhai-2-all-400-normal.woff": "/rideit_frontend/static/media/baloo-bhai-2-all-400-normal.6253a9699304c1624c7f.woff",
+    "static/media/baloo-bhai-2-gujarati-400-normal.woff2": "/rideit_frontend/static/media/baloo-bhai-2-gujarati-400-normal.03fad7ba4927ff9f096b.woff2",
+    "static/media/bg-img1.jpg": "/rideit_frontend/static/media/bg-img1.0b60a6dafd3192415c16.jpg",
+    "static/media/baloo-bhai-2-latin-400-normal.woff2": "/rideit_frontend/static/media/baloo-bhai-2-latin-400-normal.3b4bb9f79b814068eb7e.woff2",
+    "static/media/baloo-bhai-2-latin-ext-400-normal.woff2": "/rideit_frontend/static/media/baloo-bhai-2-latin-ext-400-normal.6eed1d3d46f7b47c4d10.woff2",
+    "static/media/baloo-bhai-2-vietnamese-400-normal.woff2": "/rideit_frontend/static/media/baloo-bhai-2-vietnamese-400-normal.59f8455e7a72bfe2eeb2.woff2",
+    "index.html": "/rideit_frontend/index.html",
+    "main.8e12df22.css.map": "/rideit_frontend/static/css/main.8e12df22.css.map",
+    "main.5c234adf.js.map": "/rideit_frontend/static/js/main.5c234adf.js.map",
+    "787.037d72d9.chunk.js.map": "/rideit_frontend/static/js/787.037d72d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e12df22.css",
+    "static/js/main.5c234adf.js"
+  ]
+}
