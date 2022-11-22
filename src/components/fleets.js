@@ -2,11 +2,11 @@ import React from 'react'
 
 export default function Fleets() {
   return (
-    <div>
+    <div >
 
       <div className="container ">
   <h1 className='nav justify-content-center' style={{fontWeight:'bold' , fontFamily:"Baloo Bhai 2"}}>Our Fleets</h1>
-  <div className="row fleetss">
+  <div className="row fleetss" >
     <div className="col-sm-2 " >
     <img className='auto' src="https://www.olacabs.com/webstatic/img/ola-fleet-svg/ola-auto-active.svg" alt="" />
     <h2 className='autoText'><a href="#">Auto</a></h2>

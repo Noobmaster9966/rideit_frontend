@@ -6,7 +6,7 @@ export default function Navbar() {
 
   
   return (
-    <div className='nav justify-content-end'>
+    <div className='nav justify-content-end' style={{width:"100vw"}} >
     <nav className="navbar navbar-expand-lg bg-warning navbar-light ">
   <div className="container-fluid">
     <a className="navbar-brand" href="/">

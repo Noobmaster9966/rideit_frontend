@@ -6,7 +6,7 @@ export default function FormText() {
     let[dloc,setdloc]=useState("Enter Destination Location");
   return (
     
-    <div className='ft' style={{height:'100vh'}}>
+    <div className='ft' style={{height:'100vh',width:"100vw"}}>
        
         <h1 className='nav justify-content-center my-0 'style={{color:'white',fontFamily:"Baloo Bhai 2",paddingTop:"20px"}}>Book a City Taxi to your destination in town</h1>
         <div> ' </div>

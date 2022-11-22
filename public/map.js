@@ -138,6 +138,7 @@ L.Routing.control({
         marker.setLatLng([coord.lat, coord.lng]);
       }, 100 *index );
     })
+    break;
   }
   if(count==0)break;
 }}})

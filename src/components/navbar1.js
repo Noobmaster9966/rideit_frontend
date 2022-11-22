@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Navbar1() {
   return (
-    <div className='nav justify-content-end bg-dark d-flex flex-row-reverse '>
+    <div className='nav justify-content-end bg-dark d-flex flex-row-reverse ' style={{width:"100vw"}}>
       <nav className="navbar navbar-expand-lg  navbar-dark ">
   <div className="container-fluid">
     {/* <a className="navbar-brand" href="/"> */}
